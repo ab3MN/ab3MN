@@ -26,6 +26,10 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Redux-State_Management-informational?style=flat-square&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Zustand-State_Management-informational?style=flat-square&logo=zustand&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ant_Design-UI_Library-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
+
 
 
 
@@ -35,6 +39,8 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NestJS-Framework-informational?style=flat-square&logo=nestjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/WebSocket-Real_Time_Communication-informational?style=flat-square&logo=socketdotio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Webhooks-Integrations-informational?style=flat-square&logo=zapier&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
