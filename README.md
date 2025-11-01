@@ -33,10 +33,12 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 #### Back-end
 
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NestJS-Framework-informational?style=flat-square&logo=nestjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Stripe-Payments-informational?style=flat-square&logo=stripe&logoColor=white&color=2bbc8a)
 
 
 #### Integrations
